@@ -10,7 +10,7 @@ local config = wezterm.config_builder()
 config.color_scheme = 'Material (base16)'
 
 config.font = wezterm.font('JetBrains Mono NF', {weight = 'Medium', stretch = 'Expanded'})
-config.font_size = 10.0
+config.font_size = 11.0
 
 -- and finally, return the configuration to wezterm
 return config
