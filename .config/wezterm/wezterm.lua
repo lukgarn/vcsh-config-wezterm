@@ -9,6 +9,7 @@ config.color_scheme = "Material (base16)"
 
 config.font = wezterm.font("JetBrainsMono Nerd Font", { weight = "Medium" })
 config.font_size = 12.0
+-- config.cell_width = 0.9
 
 config.front_end = "OpenGL"
 config.freetype_load_target = "Light"
